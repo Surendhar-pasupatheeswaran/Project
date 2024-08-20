@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560085947153",
+    "project_id": "magalir-1d28b",
+    "storage_bucket": "magalir-1d28b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560085947153:android:d79a6579ba90e03ffb32b0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYTHoyKRICluYmOYdsau_z_mJKl3GS-JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
